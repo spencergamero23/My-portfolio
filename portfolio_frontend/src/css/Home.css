@@ -1,0 +1,19 @@
+.introduction{
+    display: flex;
+    justify-content: center;
+    padding-top: 10rem;
+}
+
+.dot {
+    height: 60rem;
+    width: 80rem;
+    background-color: #D22B2B;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  img {
+    overflow: visible;
+  }
