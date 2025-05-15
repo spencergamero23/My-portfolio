@@ -6,9 +6,7 @@ I decided to create a portfolio website as my project. My website is in React an
 
 To start a test server, after creating a clone of the repo, all you have to do is open the terminal cd into the "portfolio_frontend" folder then type "npm run dev". There should be a little pause and then a server will pop up with a link for you to access. The site should pop up and if you make any changes in the code you'll see a response almost immediately.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running (starting the server and navigating through the web pages) and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/gkhq2UOBt64)
 
 # Web Pages
 
